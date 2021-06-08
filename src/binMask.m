@@ -2,7 +2,7 @@ function signal = binMask(input_pattern, samples)
 
 % Creates binary sound mask to create rhythms from tone
 %
-% Usage: signal = binMask(input_pattern, duration, fs)
+% Usage: signal = binMask(input_pattern, samples)
 %
 % input_pattern = binary 1D array (generally 4 notes) e.g. [1 0 0 0]
 % samples       = total number of samples
