@@ -1,6 +1,5 @@
 function song = practice1(tonic, mode, beat_dur, fs)
 
-%
 % tonic    = key of "song"
 % mode     = 4 element array indicating music mode
 %            major      = [1 5 8 12]

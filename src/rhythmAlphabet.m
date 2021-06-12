@@ -1,6 +1,7 @@
 function alphabet = rhythmAlphabet()
 
-% Create alphabet of rhythms designed by Rick Walker http://www.looppool.info
+% Create alphabet of rhythms designed by Rick Walker
+% http://www.looppool.info
 
 alphabet = zeros(16,4);
 
